@@ -34,4 +34,11 @@ console.log("Arka loves" + " " + str_convert + " "+ "and it is" + " " + bool_in_
 
 let value = 3
 let negvalue = -value
-console.log(negvalue);
+//console.log(negvalue);
+
+console.log("1"+2+2);
+console.log(1+2+"2");
+
+let counter = 100
+console.log(counter++);
+console.log(++counter);
