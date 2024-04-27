@@ -28,3 +28,10 @@ let str_convert = String(num)
 console.log(typeof str_convert);
 
 console.log("Arka loves" + " " + str_convert + " "+ "and it is" + " " + bool_in_number)
+
+
+//  ***************operations***********
+
+let value = 3
+let negvalue = -value
+console.log(negvalue);
