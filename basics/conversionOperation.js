@@ -40,5 +40,6 @@ console.log("1"+2+2);
 console.log(1+2+"2");
 
 let counter = 100
-console.log(counter++);
+++counter;
 console.log(++counter);
+
