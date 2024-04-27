@@ -16,3 +16,15 @@ bool_in_number = Boolean(is)
 
 console.log(value_in_number)
 console.log(bool_in_number)
+
+/* 1 --> true; 0--> false
+""--> false
+any value / "any value" --> true
+*/
+
+let num = 69
+let str_convert = String(num)
+
+console.log(typeof str_convert);
+
+console.log("Arka loves" + " " + str_convert + " "+ "and it is" + " " + bool_in_number)
