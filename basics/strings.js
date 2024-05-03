@@ -25,5 +25,5 @@ console.log(str.trim);
 
 const url = "https://www.javatpoint.com/oprweb/test.jsp?filename=how-to-change-background-color-in-html1"
 
-console.log(url.replace('?', '-'));
+console.log(url.replace('', '-'));
 

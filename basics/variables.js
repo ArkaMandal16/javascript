@@ -11,3 +11,5 @@ var not good to use because of function scope
 */
 let account_state;
 console.table([account_id, account_email, account_password, account_state])
+
+console.log("hi");
