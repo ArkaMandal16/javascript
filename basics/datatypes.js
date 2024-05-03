@@ -4,6 +4,6 @@
 
 // null --> standalone value
 // symbol --> unique
-4// object
+// object
 
 console.log(typeof null); // output is object
